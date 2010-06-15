@@ -1,8 +1,8 @@
 libsort
 
 This is an implementation of different types of sortings on C.
-It tries to be compilant with high-level interface of qsort() from
-standerd C library.
+It tries to be compliant with high-level interface of qsort() from
+standard C library.
 This packages also contains libtime for debugging purposes.
 
 (c) Ilya Ponetayev, 2010
